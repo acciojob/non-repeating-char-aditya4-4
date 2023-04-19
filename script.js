@@ -12,6 +12,7 @@ let str = prompt("Enter a String");
 			 return str[i];
 		 }
 	 }
+	  return "";
  }
 
 alert(fisrtNonRepeatingChar(str));
