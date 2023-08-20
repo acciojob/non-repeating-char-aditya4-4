@@ -1,5 +1,5 @@
 //your JS code here. If required.
-// let str = prompt("Enter a String");
+let str = prompt("Enter a String");
  function fisrtNonRepeatingChar(str){
 	 for(let i =0;i<str.length;i++){
 		 let count =0;
